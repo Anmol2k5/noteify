@@ -1,0 +1,6 @@
+{
+  "name": "NoteStream AI: Notes to PDF",
+  "description": "Convert handwritten notes into clean, sequenced PDFs using AI. Enhance images, auto-detect page numbers, and organize your study materials effortlessly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
